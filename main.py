@@ -179,7 +179,7 @@ print(type(fruits))
 fruits = ('apples','Mangoes','eals',32,2.03)
 print(fruits)
 
-EXERCISE : Shopping Cart Program
+# EXERCISE : Shopping Cart Program
 foods = []
 prices = []
 total = 0
